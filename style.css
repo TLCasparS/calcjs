@@ -10,8 +10,15 @@
 #op{
  
 }
+.results{
+    display: flex;
+    gap: 40px;
+}
 
 button{
     width: 100px;
     height: 100px;
+}
+.number{
+   border-color: aquamarine;
 }
